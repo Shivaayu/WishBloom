@@ -1,4 +1,4 @@
-# WishBloom 🌷
+# WishBloom 🌸
 
 A warm, playful birthday-wish experience by **Shivaayu**.
 
